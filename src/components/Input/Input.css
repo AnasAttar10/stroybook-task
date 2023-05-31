@@ -1,0 +1,16 @@
+.newinput {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 0.25rem !important;
+    width: 100%;
+    padding: 15px !important;
+}
+.small {
+    height: 2rem;
+}
+.medium{
+    height: 2.5rem;
+}
+.large {
+    height: 3rem;
+}

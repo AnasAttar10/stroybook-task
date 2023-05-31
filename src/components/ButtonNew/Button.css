@@ -1,0 +1,23 @@
+.button {
+    padding:10px; 
+    border-radius: 4px;
+    font-size: 18px;
+    color: white;
+    border: none;
+}
+.primary {
+    background-color: blue;
+}
+.pink {
+    background-color: pink;
+}
+.secondry {
+    background-color: none;
+    color: black;
+}
+.success {
+    background-color: green;
+}
+.danger{
+    background-color: red;
+}
